@@ -1,6 +1,6 @@
 ---
-platform: dotnet microframework
-device: iot.net field gateway
+platform: .NET Micro Framework
+device: YFSoft Campsis Gateway
 language: csharp
 ---
 
